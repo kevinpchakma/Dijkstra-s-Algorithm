@@ -1,4 +1,4 @@
-# Assignment-4---Dijkstra-s-
+-Dijkstra-s-
 
 It is supposed to search for the shortest distance with Dijkstra's algorithm
 
